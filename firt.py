@@ -1,5 +1,5 @@
 # My Rock-paper-scissors-lizard-Spock project
-# Author biyu
+# Author bi_yu
 # Email yubi@foxmail.com
 # Date 2015-07-22
 
