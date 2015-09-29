@@ -1,7 +1,7 @@
 # My Rock-paper-scissors-lizard-Spock project
 # Author biyu
 # Email yubi@foxmail.com
-# Date 2005-07-22
+# Date 2015-07-22
 
 import random
 
